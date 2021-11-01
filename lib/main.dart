@@ -19,7 +19,7 @@ class HomePage extends StatefulWidget {
 }
 
 class HomePageState extends State<HomePage> {
-  var url = Uri.parse("https://raw.githubusercontent.com/martynadyja/flutter_apps-doggo/main/dog-breeds-data.json");
+  var url = Uri.parse("https://raw.githubusercontent.com/martynadyja/flutter_apps-doggo/master/dog-breeds-data.json");
   DoggoHub doggoHub;
   @override
   void initState() {
