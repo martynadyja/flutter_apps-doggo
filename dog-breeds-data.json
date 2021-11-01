@@ -1,0 +1,110 @@
+{
+    "dogBreeds": [{
+        "breed": "Labrador retriever",
+        "breedType": "Czystej krwi",
+        "origin": "Kanada,USA",
+        "popularity": "1",
+        "temperament": ["Wesoły", "Delikatny", "Przyjazny"],
+        "hypoallergenic": "Nie",
+        "intelligence": 7,
+        "photo": "https://static.fajnyzwierzak.pl/media/uploads/media_image/original/wpis/183/labrador-biszkoptowy.jpg"
+    }, {
+        "breed": "Owczarek niemiecki",
+        "breedType": "Czystej krwi",
+        "origin": "Niemcy",
+        "popularity": "2",
+        "temperament": ["Odważny", "Inteligentny", "Lojalny"],
+        "hypoallergenic": "Nie",
+        "intelligence": 3,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg"
+    }, {
+        "breed": "Golden retriever",
+        "breedType": "Czystej krwi",
+        "origin": "Zjednoczone Królestwo",
+        "popularity": "3",
+        "temperament": ["Inteligenty", "Uprzejmy", "Przyjazny"],
+        "hypoallergenic": "Nie",
+        "intelligence": 4,
+        "photo": "https://pets-style.pl/wp-content/uploads/2021/06/header-golden.jpg"
+    }, {
+        "breed": "Buldog francuski",
+        "breedType": "Czystej krwi",
+        "origin": "Francja, Zjednoczone Królestwo",
+        "popularity": "4",
+        "temperament": ["Figlarny", "Towarzyski", "Przyjazny"],
+        "hypoallergenic": "Nie",
+        "intelligence": 5,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/18/2008-07-28_Dog_at_Frolick_Field.jpg"
+
+    }, {
+        "breed": "Buldog",
+        "breedType": "Czystej krwi",
+        "origin": "Zjednoczone Królestwo",
+        "popularity": "5",
+        "temperament": ["Przyjazny", "Posłuszny", "Samowolny"],
+        "hypoallergenic": "Nie",
+        "intelligence": 7,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Racib%C3%B3rz_2007_082.jpg/1200px-Racib%C3%B3rz_2007_082.jpg"
+
+    }, {
+        "breed": "Beagle",
+        "breedType": "Czystej krwi",
+        "origin": "Zjednoczone Królestwo",
+        "popularity": "6",
+        "temperament": ["Delikatny", "Inteligentny", "Zrównoważony"],
+        "hypoallergenic": "Nie",
+        "intelligence": 7,
+        "photo": "https://www.psy.pl/wp-content/uploads/2010/08/shutterstock_424566229-e1486554229674-864x575.jpg"
+
+    }, {
+        "breed": "Pudel",
+        "breedType": "Czystej krwi",
+        "origin": "Niemcy, Francja",
+        "popularity": "7",
+        "temperament": ["Inteligentny", "Wierny", "Do wytrenowania"],
+        "hypoallergenic": "Tak",
+        "intelligence": 2,
+        "photo": "https://www.rover.com/blog/wp-content/uploads/2019/09/Poodle-min-1.jpg"
+
+    }, {
+        "breed": "Rottweiler",
+        "breedType": "Czystej krwi",
+        "origin": "Niemcy",
+        "popularity": "8",
+        "temperament": ["Inteligentny", "Odważny", "Nieustraszony"],
+        "hypoallergenic": "Nie",
+        "intelligence": 9,
+        "photo": "https://zwierzaki.pl/wp-content/uploads/2021/05/rottweiler-1200x720.jpg"
+
+    }, {
+        "breed": "Wyżeł niemiecki",
+        "breedType": "Czystej krwi",
+        "origin": "Niemcy",
+        "popularity": "9",
+        "temperament": ["Inteligentny", "Do wytrenowania", "Porywisty"],
+        "hypoallergenic": "Nie",
+        "intelligence": 9,
+        "photo": "https://1.bp.blogspot.com/-JAG_YLqIlD0/Xb9QLKkjweI/AAAAAAAAAFk/gWDSFm0KjUMKihp_su9LVvTWSJAUnFMJQCLcBGAsYHQ/s1600/german-shorthaired-pointer-gsp.jpg"
+
+    }, {
+        "breed": "Yorkshire Terier",
+        "breedType": "Czystej krwi",
+        "origin": "Zjednoczone Królestwo",
+        "popularity": "1",
+        "temperament": ["Niezależny", "Inteligentny", "Odważny"],
+        "hypoallergenic": "Tak",
+        "intelligence": 2,
+        "photo": "https://zooart.com.pl/blog/wp-content/uploads/2021/03/Yorkshire-terrier-6.jpg"
+
+    }, {
+        "breed": "Bokser",
+        "breedType": "Czystej krwi",
+        "origin": "Niemcy",
+        "popularity": "1",
+        "temperament": ["Figlarny", "Przyjazny", "Oddany"],
+        "hypoallergenic": "Nie",
+        "intelligence": 4,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1._Brindle_boxer_dog%2C_female.jpg/1200px-1._Brindle_boxer_dog%2C_female.jpg"
+
+    }]
+}
